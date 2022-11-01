@@ -49,7 +49,7 @@ In case, you want to download the code from our repo and watch things locally, y
 # Support
 If you have questions about the Project or just want to interact, you can contact us.
 
-
+* [Goutham ](azmeeragouthamnaik74@gmail.com) 
 * [Sathwik Veeramaneni](mailto:sathwikrao2001@gmail.com) 
 
 Don't forget that we are open to suggestions, extensions or adaptations. Feel free to discuss or propose new ideas for the project!
